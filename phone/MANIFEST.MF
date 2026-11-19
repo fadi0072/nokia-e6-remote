@@ -1,0 +1,9 @@
+MIDlet-1: E6 Remote,/icon.png,E6Remote
+MIDlet-Name: E6 Remote
+MIDlet-Vendor: Personal
+MIDlet-Version: 1.0.0
+MIDlet-Icon: /icon.png
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0
+Nokia-MIDlet-On-Screen-Keypad: no
+Nokia-MIDlet-App-Orientation: landscape
